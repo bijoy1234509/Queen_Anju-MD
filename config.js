@@ -26,7 +26,7 @@ ALIVE_IMG: process.env.ALIVE_IMG || "https://telegra.ph/file/adc46970456c26cad0c
 ALIVE_MSG: process.env.ALIVE_MSG || "HELLOW THEIR, QUEEN ANJU IS ALIVE...\n\nOWNER: JANITH RASHMIKA\n\nTHANKS FOR USING QUEEN ANJU MD\n\n> *© Qᴜᴇᴇɴ ᴀɴᴊᴜ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ*/n/n*> ɢɪᴛʜᴜʙ :* github.com/Mrrashmika/Queen_Anju-MD",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 MODE: process.env.MODE || "public",
-BOT_NUMBER: process.env.BOT_NUMBER || "94717775628",
+BOT_NUMBER: process.env.BOT_NUMBER || "918509121704",
 OWNER_REACT: process.env.OWNER_REACT || "🔆",
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39",
 READ_CMD: process.env.READ_CMD || "true",
